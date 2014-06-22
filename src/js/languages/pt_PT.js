@@ -20,13 +20,13 @@
             'default': 'Por favor insira um número de cartão de crédito válido'
         },
         cusip: {
-            'default': 'Please enter a valid CUSIP number'
+            'default': 'Por favor insira um número CUSIP válido'
         },
         cvv: {
-            'default': 'Please enter a valid CVV number'
+            'default': 'Por favor insira um número CVV válido'
         },
         date: {
-            'default': 'Please enter a valid date'
+            'default': 'favor insira uma data válida'
         },
         different: {
             'default': 'Please enter a different value'
